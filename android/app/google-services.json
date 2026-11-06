@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790542694097",
+    "project_id": "my-cool--project",
+    "storage_bucket": "my-cool--project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790542694097:android:775e6fff58d30e8af377f0",
+        "android_client_info": {
+          "package_name": "com.example.arusmaya_finance_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsqVb03k4WYUtg3NugAzNlbZwObyKJvgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
